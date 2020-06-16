@@ -156,6 +156,7 @@ export default {
   overflow-y: auto;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
   border-radius: 4px;
+  
 }
 .movie-list {
   padding: 10px;
